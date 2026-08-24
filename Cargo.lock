@@ -463,9 +463,9 @@ checksum = "61803da095bee82a81bb1a452ecc25d3b2f1416d1897eb86430c6159ef717c17"
 
 [[package]]
 name = "deboa"
-version = "0.1.3"
+version = "0.1.5-beta.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "65089863049f2a5af354ebb36b9213f299b42d04c178962d273944154b5e4a04"
+checksum = "1e3ea2d0968fb1ada5f11bbe9b83e480db8ec44324662143e986dfa773917a1c"
 dependencies = [
  "async-lock",
  "base64",
@@ -836,9 +836,9 @@ checksum = "e4eba85ea1d0a966a983acd07deee566e67395d2d96b6fb39e62b5a833f1eb0b"
 
 [[package]]
 name = "glommio-ng"
-version = "0.11.1"
+version = "0.11.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "95bccf930e7b78d67c6466cb1e585c6045da72b5e39c79d56bef2e5a8b3e4511"
+checksum = "ef647b9547cd8d65d6bddaa3360aca1e67902da8dab08b264b733b8de98fbf0a"
 dependencies = [
  "ahash",
  "backtrace",
@@ -873,9 +873,9 @@ dependencies = [
 
 [[package]]
 name = "glommio-ng-macros"
-version = "0.11.1"
+version = "0.11.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fba7f0ed3085a23dcb1c888e8962f7f39a7a15bf893753842c573355e99b15b0"
+checksum = "a722b6fe110116c167a3906ff674b2d92d797db85ecbf048b970662046f8f6fb"
 dependencies = [
  "proc-macro2",
  "quote",
