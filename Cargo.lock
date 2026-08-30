@@ -578,7 +578,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "39cab71617ae0d63f51a36d69f866391735b51691dbda63cf6f96d042b63efeb"
 dependencies = [
  "libc",
- "windows-sys 0.61.2",
+ "windows-sys 0.52.0",
 ]
 
 [[package]]
@@ -836,9 +836,9 @@ checksum = "e4eba85ea1d0a966a983acd07deee566e67395d2d96b6fb39e62b5a833f1eb0b"
 
 [[package]]
 name = "glommio-ng"
-version = "0.11.4"
+version = "0.11.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ef647b9547cd8d65d6bddaa3360aca1e67902da8dab08b264b733b8de98fbf0a"
+checksum = "d9bdf9c44d61509281e16fc51c48c1989d012bc609fab692f3b9378e0d4f9b8f"
 dependencies = [
  "ahash",
  "backtrace",
@@ -873,9 +873,9 @@ dependencies = [
 
 [[package]]
 name = "glommio-ng-macros"
-version = "0.11.4"
+version = "0.11.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a722b6fe110116c167a3906ff674b2d92d797db85ecbf048b970662046f8f6fb"
+checksum = "fbb562a76d647dcc4b9d2f6324bda3e6ab219bdecd4f5e0adbb308dfa9ef6be1"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1693,7 +1693,7 @@ dependencies = [
  "errno",
  "libc",
  "linux-raw-sys",
- "windows-sys 0.61.2",
+ "windows-sys 0.52.0",
 ]
 
 [[package]]
@@ -1750,7 +1750,7 @@ dependencies = [
  "security-framework",
  "security-framework-sys",
  "webpki-root-certs",
- "windows-sys 0.61.2",
+ "windows-sys 0.52.0",
 ]
 
 [[package]]
@@ -2428,7 +2428,7 @@ version = "0.1.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c2a7b1c03c876122aa43f3020e6c3c3ee5c05081c9a00739faf7503aeba10d22"
 dependencies = [
- "windows-sys 0.61.2",
+ "windows-sys 0.52.0",
 ]
 
 [[package]]
