@@ -836,9 +836,9 @@ checksum = "e4eba85ea1d0a966a983acd07deee566e67395d2d96b6fb39e62b5a833f1eb0b"
 
 [[package]]
 name = "glommio-ng"
-version = "0.11.4"
+version = "0.12.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ef647b9547cd8d65d6bddaa3360aca1e67902da8dab08b264b733b8de98fbf0a"
+checksum = "b8da8ae85d40efc71361e1d6b889c859c8f404a629bdfb26035f309bd059de8b"
 dependencies = [
  "ahash",
  "backtrace",
@@ -873,9 +873,9 @@ dependencies = [
 
 [[package]]
 name = "glommio-ng-macros"
-version = "0.11.4"
+version = "0.12.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a722b6fe110116c167a3906ff674b2d92d797db85ecbf048b970662046f8f6fb"
+checksum = "6be10540f3560f1ba9ae93a40f7577173baf5fdd71de41be9c56d2f273e3f380"
 dependencies = [
  "proc-macro2",
  "quote",
