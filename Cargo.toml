@@ -90,7 +90,7 @@ minimime = "1.0.0"
 mockall = "0.15.0"
 rand = { version = "0.10.1", default-features = false }
 regex = { version = "1.12.4", default-features = false }
-rstest = "0.26.1"
+rstest = "0.27.0"
 rustls = { version = "0.23.36", optional = true, default-features = false }
 rustls-native-certs = { version = "0.8.4", optional = true, default-features = false }
 rustls-pki-types = { version = "1.14.1", optional = true, default-features = false }
